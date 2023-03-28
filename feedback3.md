@@ -6,6 +6,13 @@
 - N'hésite pas à typer les propriétés et les paramètres d'entrée de tes modèles, cela permet de mieux comprendre le code et de mieux sécuriser ton application.
 - Pense à garder en tête une convention de nommage uniforme afin de faciliter la lecture du code / du site et garder une meilleure cohérence. Je pense à la route "teacher_list" que tu as donné qui mériterais de gagner un "s"
 - Concernant la validation des données des formulaires que tu as implémenté : C'est une très bonne idée d'utiliser la fonction filter_input pour valider les données, par contre tu as oublié de définir dans ton modèle (mais aussi dans la récupération de tes données de formulaire) la propriété contenant l'id du professeur lié à l'élève... ce qui bloque ta requête.
+- Petit commentaire supplémentaire même si ça reste léger, veille à coder exclusivement en anglais, c'est une bonne pratique à prendre dès le début de ton parcours : 
+```php
+// aucune erreur détectée
+// j'ai soumis mon formulaire et je n'ai pas d'erreur
+$retour = $newStudent->insert();
+```
+Pour le moment les commentaires en français ne sont pas dérangeants mais les noms de variables, fonctions, propriétés etc... doivent être en anglais. Cela permet de faciliter la lecture du code par des personnes qui ne parlent pas la même langue que toi et de faciliter la communication avec les autres développeurs.
 
 **Concernant le model**
 - Les méthodes et propriétés implémentées dans tes classes sont correctes (revoir le typage des propriétés et des paramètres d'entrée) dans l'ensemble.... excépté cet exemple :
