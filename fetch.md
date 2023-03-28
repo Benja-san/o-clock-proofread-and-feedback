@@ -64,7 +64,7 @@ Tu vois sur cet exemple que lorsque j'affiche ma page web, je n'ai pas de conten
 Puis je vais y ajouter un script qui va me permettre de faire des requêtes asyncrones sur ton API REST. Je vais donc créer un fichier js qui va s'appeler **fetch.js** et qui va contenir le code suivant :
 ```js
 // On récupère la div qui va contenir les données
-const teacherContainer = document.getElementById("teachers")
+const teachersContainer = document.getElementById("teachers")
 // On crée une variable qui va contenir l'url de l'API
 const url = "http://localhost:8000/teachers"
 // On crée une fonction qui va faire la requête
@@ -84,7 +84,7 @@ const getTeachers = async () => {
                 </div>`
     }
     // On affiche le contenu HTML dans la div
-    teacherContainer.innerHTML = html
+    teachersContainer.innerHTML = html
 }
 // On appelle la fonction
 getTeachers()
