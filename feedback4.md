@@ -8,6 +8,7 @@ Si je met cette méthode au clair c'est parce que je vois que tu réfère à des
 - Tu as entièrement compris à quoi réfère le modèle dans le MVC, Les propriétés et méthodes sont correctement déclarés, et un paramètre d'entrée et de sortie sont à chaque fois déclarés afin de fortifier la sécurité du code.
 **Concernant la Vue**
 - Tu as compris la notion de templating et la notion de rendu de données dynamiques via les données que tu essayes de récuperer de ton controlleur!
+- Pense à modifier tes inputs afin qu'ils correspondent plus à la donnée que souhaite saisir l'utilisateur. Cela améliore l'ux mais aussi la sécurisation de données (Par exemple le choix de status que tu as mis en input de type texte... mériterait de changer pour un select)
 **Concernant le Controller**
 - Je pense que c'est sur cette partie que tu titubes finalement. Je vois que tu as bien compris le rôle du controlleur, à savoir vérifier / passer l'information entre la vue et le modèle. En revanche n'hésite pas à revoir la notion d'instanciation dans la programmation orientée objet, ainsi que la notion de fonctions. Je vis que dans le controller "TeachersController" tu essayes ce code suivant :
 ```php
