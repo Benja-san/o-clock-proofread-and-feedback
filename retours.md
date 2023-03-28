@@ -5,7 +5,7 @@ Cette personne a tout compris! Il peut certes optimiser son code (routing avanc�
 - 🟢 RAS
 
 ## 2 : Apprenant 2
-Pour cette personne j'ai réfléchi un peu plus mais pour moi il ne lui reste que sa rapidité d'action à travailler (pratiquer quelques kata, faire des petits projets perso, etc...). Sa compréhension du code et des notions (MVC, OOP etc...) sont très bonnes! Son projet est très bien implémenté, c'est même le plus optimisé. En revanche il n'a pas su complété le challenge de base. Avec un peu de pratique il sera au top! :thumbsup:
+Pour cette personne j'ai réfléchi un peu plus mais pour moi il ne lui reste que sa rapidité d'action à travailler (pratiquer quelques kata, faire des petits projets perso, etc...). Sa compréhension du code et des notions (MVC, OOP etc...) sont très bonnes! Son projet est très bien implémenté, c'est même le plus optimisé. En revanche il n'a pas su compléter le challenge de base. Avec un peu de pratique il sera au top! :thumbsup:
 - 🟡 Des Choses à Travailler
 
 ## 2 : Apprenant 3
