@@ -13,3 +13,5 @@
 - Si c'est pour ta comprehension, ou pour ton équipe de manière informelle ou durant un brainstorming... Ne t'embète pas à utiliser une application... Rien ne vaut la rapidité et la simplicité d'un crayon et d'un papier. :thumbsup:
 - Si tu endosse le rôle d'architecte et que tu dois présenter ce MCD pour valider un projet plus complexe, et te justifier sur les raisons de tes relations :
 Plusieurs modéliseurs (avec plus ou moins d'options selon le besoin) sont disponibles directment en ligne. Le coté saas est très pratique pour les équipes qui ne veulent pas se prendre la tête avec la mise en place d'un serveur. Choisit celui pour lequel tu as le plus de feeling et fais toi plaisir!
+**Temps passé sur le schéma + compte rendu**
+10-15 minutes.
