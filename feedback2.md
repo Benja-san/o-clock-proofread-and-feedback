@@ -1,4 +1,4 @@
-# Parcours PHP : Review apprenant 1 :fire:
+# Parcours PHP : Review apprenant 2 :fire:
 
 ## 1 : Global :earth_africa:
 - Très bonne séparation du code répartie entre le modèle, le controlleur et la vue, tu as compris et utilisé le design pattern MVC à bon escient, bien joué :clap: !
